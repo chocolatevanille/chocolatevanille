@@ -1,17 +1,5 @@
 ## Hello world! 👋🌎 It's [Noël!](https://noelbarroncs.com)
 
-<br/>
-
-
-<a href="https://www.linkedin.com/in/william-barron-37a3b392/">
-<img align="left" alt="Noël Barron | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" />
-</a>
-<a href="https://www.youtube.com/@ChocolateVanille">
-<img align="left" alt="Noël Barron | YouTube" width="22px" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" />
-</a>
-
-<br />
-
 Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a recent Northwestern University graduate looking to break into the professional world. I specialize in AI Engineering and Natural Language Processing, especially with Azure AI Services and PyTorch. 
 
 
