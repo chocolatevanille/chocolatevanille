@@ -2,16 +2,18 @@
 
 <br/>
 
+
 <a href="https://www.linkedin.com/in/william-barron-37a3b392/">
-<img align="left" alt="Noël Barron | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Noël Barron | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" />
 </a>
 <a href="https://www.youtube.com/@ChocolateVanille">
-<img align="left" alt="Noël Barron | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="Noël Barron | YouTube" width="22px" src="https://www.freepnglogos.com/uploads/youtube-play-red-logo-png-transparent-background-6.png" />
 </a>
 
 <br />
 
 Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a recent Northwestern University graduate looking to break into the professional world. I specialize in AI Engineering and Natural Language Processing, especially with Azure AI Services and PyTorch. 
+
 
 <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjaGlvamY3eTl3MWJnYjJ6a3Q2Nzc1ZHViNWd5YWhzM2ZxZWpmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkdIhnHHnFma6xvICt/giphy-downsized-large.gif" />
 
@@ -23,6 +25,9 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 - 📫 How to reach me: nbarroncs@gmail.com or text me at 832-361-9133
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I've held multiple world records for different Doom Eternal speedrunning categories! 🏃 
+
+
+
 
 **Languages Highlight**
 
@@ -40,7 +45,10 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/240px-Lisp_logo.svg.png"></code><!--Common Lisp-->
 <code><img height="20" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg"></code><!--JavaScript-->
 
+
 **Tools Highlight**
+
+
 <code><img height="20" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254256/pytorch-icon-md.png"></code><!--PyTorch-->
 <code><img height="20" src="https://jtes.net/wp-content/uploads/2015/05/NVIDIA_CUDA_V_2C_r.jpg"></code><!--CUDA-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><!--Git-->
