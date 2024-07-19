@@ -31,7 +31,6 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 <code><img height="20" src="https://images.vexels.com/media/users/3/166485/isolated/preview/d4061b653e6ba02ad0afdc79e0315a25-ruby-programming-language-icon-by-vexels.png"></code><!--Ruby-->
 <code><img height="20" src="https://iconape.com/wp-content/files/ji/89588/png/perl-programming-language.png"></code><!--Perl-->
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/240px-Lisp_logo.svg.png"></code><!--Common Lisp-->
-<code><img height="20" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg"></code><!--JavaScript-->
 
 
 **Tools Highlight**
