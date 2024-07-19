@@ -38,7 +38,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 
 
 <code><img height="20" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254256/pytorch-icon-md.png"></code><!--PyTorch-->
-<code><img height="20" src="https://jtes.net/wp-content/uploads/2015/05/NVIDIA_CUDA_V_2C_r.jpg"></code><!--CUDA-->
+<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/235_Nvidia_logo-1024.png"></code><!--CUDA-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><!--Git-->
 <code><img height="20" src="https://swimburger.net/media/ppnn3pcl/azure.png"></code><!--Azure-->
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png"></code><!--Docker-->
