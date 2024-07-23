@@ -10,7 +10,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 - 🔭 I’m currently working on porting GodmasterHelper to Android.
 - 🌱 I’m currently learning Node.js and DevOps.
 - 💬 Ask me about anything <3
-- 📫 How to reach me: nbarroncs@gmail.com or text me at 832-361-9133
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/william-barron-37a3b392/), email me at nbarroncs@gmail.com, or text me at 832-361-9133
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I've held multiple world records for different Doom Eternal speedrunning categories! 🏃 
 
