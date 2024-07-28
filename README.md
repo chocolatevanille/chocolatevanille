@@ -25,6 +25,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png"></code><!--C#-->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code><!--MySQL-->
 <code><img height="20" src="https://static-00.iconduck.com/assets.00/java-icon-1024x1024-k83sold2.png"></code><!--Java-->
+<code><img height="20" src="https://www.switchdoc.com/wp-content/uploads/2015/11/2000px-Text-xml.svg_.png"></code><!--XML-->
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/smashicons-file-types-flat/56/22_-_HTML_File_Flat-1024.png"></code><!--HTML-->
 <code><img height="20" src="https://static.vecteezy.com/system/resources/previews/000/380/132/original/css-vector-icon.jpg"></code><!--CSS-->
 <code><img height="20" src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg"></code><!--JavaScript-->
