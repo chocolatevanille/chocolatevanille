@@ -7,7 +7,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 
 **About Me:**
 - 📝 [Portfolio](https://noelbarroncs.com)
-- 🔭 I’m currently working on obtaining Microsoft Azure AI Engineer Associate certification (AI-902).
+- 🔭 I’m currently working on obtaining Microsoft Azure AI Engineer Associate certification (AI-102).
 - 🌱 I’m currently learning Kubernetes, Node.js, and DevOps principles.
 - 💬 Ask me about anything <3
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/william-barron-37a3b392/), email me at nbarroncs@gmail.com, or text me at 832-361-9133
