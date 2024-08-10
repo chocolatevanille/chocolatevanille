@@ -3,7 +3,7 @@
 Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a recent Northwestern University graduate looking to break into the professional world. I specialize in AI Engineering and Natural Language Processing, especially with Azure AI Services and PyTorch. I do lots of charity work and am motivated by making the world a better place.  
 
 
-<img style="float: right;" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjaGlvamY3eTl3MWJnYjJ6a3Q2Nzc1ZHViNWd5YWhzM2ZxZWpmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkdIhnHHnFma6xvICt/giphy-downsized-large.gif" />
+<img style="float: right;" alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:530/1*S_z-fU_sRXx9HgQvz1lSXQ.gif" />
 
 **About Me:**
 - 📝 [Portfolio](https://noelbarroncs.com)
