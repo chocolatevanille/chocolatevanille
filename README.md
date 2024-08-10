@@ -4,7 +4,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; width: 200px;">
     <strong>About Me:</strong>
     <ul>
       <li>📝 <a href="https://noelbarroncs.com">Portfolio</a></li>
@@ -17,7 +17,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
     </ul>
   </div>
   <div style="flex: 0;">
-    <img alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:530/1*S_z-fU_sRXx9HgQvz1lSXQ.gif" width="120px" />
+    <img alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:530/1*S_z-fU_sRXx9HgQvz1lSXQ.gif" width="80px" />
   </div>
 </div>
 
