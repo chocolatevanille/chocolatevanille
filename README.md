@@ -1,16 +1,16 @@
 ## Hello world! 👋🌎 It's [Noël!](https://noelbarroncs.com)
 
-Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a recent Northwestern University graduate looking to break into the professional world. I specialize in AI Engineering and Natural Language Processing, especially with Azure AI Services and PyTorch. 
+Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a recent Northwestern University graduate looking to break into the professional world. I specialize in AI Engineering and Natural Language Processing, especially with Azure AI Services and PyTorch. I do lots of charity work and am motivated by making the world a better place.  
 
 
-<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjaGlvamY3eTl3MWJnYjJ6a3Q2Nzc1ZHViNWd5YWhzM2ZxZWpmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkdIhnHHnFma6xvICt/giphy-downsized-large.gif" />
+<img style="float: right;" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZjaGlvamY3eTl3MWJnYjJ6a3Q2Nzc1ZHViNWd5YWhzM2ZxZWpmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkdIhnHHnFma6xvICt/giphy-downsized-large.gif" />
 
 **About Me:**
 - 📝 [Portfolio](https://noelbarroncs.com)
 - 🔭 I’m currently working on obtaining Microsoft Azure AI Engineer Associate certification (AI-102).
-- 🌱 I’m currently learning Kubernetes and DevOps principles.
+- 🌱 I’m currently learning Javalin and DevOps principles.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/william-barron-37a3b392/) or email me at nbarroncs@gmail.com
 - 💬 Ask me about anything <3
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/william-barron-37a3b392/), email me at nbarroncs@gmail.com, or text me at 832-361-9133
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I've held multiple world records for different Doom Eternal speedrunning categories! 🏃 
 
