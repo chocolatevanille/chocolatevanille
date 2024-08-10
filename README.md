@@ -3,8 +3,8 @@
 Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a recent Northwestern University graduate looking to break into the professional world. I specialize in AI Engineering and Natural Language Processing, especially with Azure AI Services and PyTorch. I do lots of charity work and am motivated by making the world a better place.  
 
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; width: 200px;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
     <strong>About Me:</strong>
     <ul>
       <li>📝 <a href="https://noelbarroncs.com">Portfolio</a></li>
@@ -16,8 +16,8 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
       <li>⚡ Fun fact: I've held multiple world records for different Doom Eternal speedrunning categories! 🏃</li>
     </ul>
   </div>
-  <div style="flex: 0;">
-    <img alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:530/1*S_z-fU_sRXx9HgQvz1lSXQ.gif" width="80px" />
+  <div style="flex: 0 0 230px;">
+    <img alt="GIF" src="https://cdn-images-1.medium.com/v2/resize:fit:530/1*S_z-fU_sRXx9HgQvz1lSXQ.gif" width="230px" />
   </div>
 </div>
 
