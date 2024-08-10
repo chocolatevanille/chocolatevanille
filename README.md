@@ -43,6 +43,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 <code><img height="20" src="https://swimburger.net/media/ppnn3pcl/azure.png"></code><!--Azure-->
 <code><img height="20" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-1024.png"></code><!--Docker-->
 <code><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code><!--ReactJS-->
+<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62c48bbdd884e8c372162223.png"></code><!--RubyOnRails-->
 <code><img height="20" src="https://miro.medium.com/v2/resize:fit:600/0*sCkSCEPxN6IPjir3.jpg"></code><!--JupyterLab-->
 <code><img height="20" src="https://icon-library.com/images/vmware-icon/vmware-icon-3.jpg"></code><!--VMWare-->
 <code><img height="20" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png"></code><!--VSCode-->
