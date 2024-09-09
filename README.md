@@ -10,7 +10,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
       <ul>
         <li>📝 <a href="https://noelbarroncs.com">Portfolio</a></li>
         <li>🔭 I’m currently working on obtaining Microsoft Azure AI Engineer Associate certification (AI-102).</li>
-        <li>🌱 I'm growing professionally by training in data structures and algorithms on [HackerRank](https://www.hackerrank.com/profile/nbarroncs).</li>
+        <li>🌱 I'm growing professionally by training in data structures and algorithms on <a href="https://www.hackerrank.com/profile/nbarroncs">HackerRank</a>.</li>
         <li>📫 How to reach me: <a href="https://www.linkedin.com/in/william-barron-37a3b392/">LinkedIn</a> or email me at nbarroncs@gmail.com</li>
         <li>💬 Ask me about anything <3</li>
         <li>😄 Pronouns: they/them</li>
