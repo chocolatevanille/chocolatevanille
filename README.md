@@ -35,4 +35,4 @@ Python, Java, SQL, C#, C++, HTML, CSS, JavaScript
 **Tools Highlight**
 
 
-Microsoft Azure, PyTorch, Ruby On Rails, Spring Boot, ReactJS, JupyterLab, Docker, Git, Visual Studio Code
+Microsoft Azure, AWS, PyTorch, Ruby On Rails, Spring Boot, ReactJS, JupyterLab, Docker, Git, Visual Studio Code
