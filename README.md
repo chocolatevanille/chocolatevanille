@@ -1,6 +1,6 @@
-## Hello world! 👋🌎 It's [Noël!](https://noelbarroncs.com)
+## Hello world! 👋🌎
 
-Welcome to my humble abode. 🩷 I am Noël Barron, a software engineer at Amazon. I specialize in Java and AI Engineering, especially with Azure AI Services, AWS, and PyTorch.  
+Welcome to my humble abode. 🩷 I'm Noël Barron, a software engineer at Amazon. I specialize in Java and AI Engineering, especially with Azure AI Services, AWS, and PyTorch.  
 
 
 <table style="border: none; border-collapse: collapse;">
@@ -8,10 +8,11 @@ Welcome to my humble abode. 🩷 I am Noël Barron, a software engineer at Amazo
     <td>
       <strong>About Me:</strong>
       <ul>
-        <li>📝 <a href="https://noelbarroncs.com">Portfolio</a></li>
-        <li>🔭 I’m currently working on a Pokémon Emerald ROM hack.</li>
-        <li>📫 How to reach me: <a href="https://www.linkedin.com/in/william-barron-37a3b392/">LinkedIn</a> or email me at nbarroncs@gmail.com</li>
-        <li>💬 Ask me about anything <3</li>
+        <li>📝 Want a resume? Check out my <a href="https://noelbarroncs.com">Portfolio</a>.</li>
+        <li>🔭 I love diving deep into my hobbies. Currently, I'm learning how to ROM hack Pokémon games!</li>
+        <li>🔭 Other hobbies include piano, reading, PC gaming, streaming, fragrances, cricket, volunteer work, and more...</li>
+        <li>💬 Feel free to ask me about anything <3 Discord: chocolatevanille</li>
+        <li>📫 Professional inquiry? <a href="https://www.linkedin.com/in/william-barron-37a3b392/">LinkedIn</a> or email me at nbarroncs@gmail.com</li>
         <li>😄 Pronouns: they/them</li>
         <li>⚡ Fun fact: I've held multiple world records for different Doom Eternal speedrunning categories! 🏃</li>
       </ul>
