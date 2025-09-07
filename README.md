@@ -1,6 +1,6 @@
 ## Hello world! 👋🌎 It's [Noël!](https://noelbarroncs.com)
 
-Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a recent Northwestern University graduate breaking into the profesisonal world with Amazon. I specialize in AI Engineering and Natural Language Processing, especially with Azure AI Services, AWS, and PyTorch. I do lots of charity work on the side and am motivated by making the world a better place.  
+Welcome to my humble abode. 🩷 I am Noël Barron, a software engineer at Amazon. I specialize in Java and AI Engineering, especially with Azure AI Services, AWS, and PyTorch.  
 
 
 <table style="border: none; border-collapse: collapse;">
@@ -9,8 +9,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
       <strong>About Me:</strong>
       <ul>
         <li>📝 <a href="https://noelbarroncs.com">Portfolio</a></li>
-        <li>🔭 I’m currently preparing for the AWS Certified Machine Learning Engineer Associate certification.</li>
-        <li>🌱 I'm growing professionally by training in data structures and algorithms on <a href="https://www.hackerrank.com/profile/nbarroncs">HackerRank</a>.</li>
+        <li>🔭 I’m currently working on a Pokémon Emerald ROM hack.</li>
         <li>📫 How to reach me: <a href="https://www.linkedin.com/in/william-barron-37a3b392/">LinkedIn</a> or email me at nbarroncs@gmail.com</li>
         <li>💬 Ask me about anything <3</li>
         <li>😄 Pronouns: they/them</li>
@@ -29,7 +28,7 @@ Fellow coding enthusiasts, welcome to my humble abode. 🩷 I am Noël Barron, a
 **Languages Highlight**
 
 
-Python, Java, SQL, C#, C++, HTML, CSS, JavaScript
+Java, Python, SQL, C#, C/C++, HTML, CSS, JavaScript
 
 
 **Tools Highlight**
